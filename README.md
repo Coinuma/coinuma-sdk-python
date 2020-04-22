@@ -1,5 +1,9 @@
 # Coinuma API SDK for Python
-
+Welcome to the Coinuma API! Through our cryptocurrency exchange we offer a wide selection 
+of currencies for you to trade. For a complete API request and response reference please check 
+out our [API documentation](https://coinuma.com/developers/docs). If you need additional help in using 
+the API, please visit the [Coinuma website](https://coinuma.com) and reach our support center. 
+Happy trading!
 ## Requirements
 Python 3.5+
 

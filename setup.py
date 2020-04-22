@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 NAME = "coinuma-sdk"
-VERSION = "0.2.0"
+VERSION = "0.2.1"
 DESCRIPTION = "A python SDK for the Coinuma Exchange API"
 LONG_DESCRIPTION = """
     Welcome to the Coinuma API! Through our cryptocurrency exchange we offer a wide selection 
@@ -10,7 +10,7 @@ LONG_DESCRIPTION = """
     the API, please visit the [Coinuma website](https://coinuma.com) and reach our support center. 
     Happy trading!
     """
-URL = "http://coinuma.com"
+URL = "https://coinuma.com"
 URL_DOWNLOAD = "https://github.com/Coinuma/coinuma-sdk-python.git"
 REQUIRES = ["requests >= 2.21.0", "python-dateutil"]
 
