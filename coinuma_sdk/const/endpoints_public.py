@@ -1,0 +1,6 @@
+SUMMARY = '/summary'
+ASSETS = '/assets'
+ORDERBOOK = '/orderbook/{symbol}'
+TRADES = '/trades/{symbol}'
+SYMBOLS = '/symbols/{symbol}'
+TICKERS = '/tickers/{symbol}'
