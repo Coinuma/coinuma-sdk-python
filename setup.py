@@ -8,7 +8,7 @@ LONG_DESCRIPTION = """
 Through our cryptocurrency exchange we offer a wide selection of currencies for you to trade. For a complete API request and response reference please check out our [API documentation](https://coinuma.com/developers/docs). If you need additional help in using the API, please visit the [Coinuma website](https://coinuma.com) and reach our support center. 
 #### Happy trading!
 """
-URL = "https://coinuma.com"
+URL = "https://github.com/Coinuma/coinuma-sdk-python.git"
 URL_DOWNLOAD = "https://github.com/Coinuma/coinuma-sdk-python.git"
 REQUIRES = ["requests >= 2.21.0", "python-dateutil"]
 
