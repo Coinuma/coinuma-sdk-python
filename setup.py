@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 NAME = "coinuma-sdk"
 VERSION = "0.2.0"
 DESCRIPTION = "A python SDK for the Coinuma Exchange API"
-URL = "coinuma.com"
-URL_DOWNLOAD = ""
+URL = "http://coinuma.com"
+URL_DOWNLOAD = "https://github.com/Coinuma/coinuma-sdk-python.git"
 REQUIRES = ["requests >= 2.21.0", "python-dateutil"]
 
 setup(
