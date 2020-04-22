@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 NAME = "coinuma-sdk"
-VERSION = "0.2.2.1"
+VERSION = "0.2.3"
 DESCRIPTION = "A python SDK for the Coinuma Exchange API"
 LONG_DESCRIPTION = """
 # Welcome to the Coinuma API SDK
